@@ -6,7 +6,6 @@ StrukIn adalah aplikasi pencatat keuangan pribadi berbasis web yang membantu pen
 
 - [Tentang Proyek](#tentang-proyek)
 - [Fitur Utama](#fitur-utama)
-- [Tampilan Aplikasi](#tampilan-aplikasi)
 - [Teknologi yang Digunakan](#teknologi-yang-digunakan)
 - [Struktur Folder](#struktur-folder)
 - [Instalasi dan Menjalankan Secara Lokal](#instalasi-dan-menjalankan-secara-lokal)
@@ -33,20 +32,6 @@ Banyak pelajar dan mahasiswa kesulitan mengontrol pengeluaran bulanan karena pen
 - Grafik sebaran pengeluaran per kategori
 - Halaman profil dan pengaturan untuk mengubah karakter AI, level kepedasan, dan budget
 - Tampilan responsif dengan navigasi atas untuk desktop dan bottom navigation bar mengambang (glassmorphism) khusus tampilan mobile
-
-## Tampilan Aplikasi
-
-| Landing Page | Dashboard (Desktop) |
-|---|---|
-| ![Landing Page](docs/screenshots/landing.png) | ![Dashboard Desktop](docs/screenshots/dashboard-desktop.png) |
-
-| Dashboard (Mobile) | Kuis Karakter AI |
-|---|---|
-| ![Dashboard Mobile](docs/screenshots/dashboard-mobile.png) | ![Onboarding Quiz](docs/screenshots/onboarding-quiz.png) |
-
-| Scan Struk (Mobile) | Tambah Saldo |
-|---|---|
-| ![Scan Mobile](docs/screenshots/scan-mobile.png) | ![Tambah Saldo](docs/screenshots/tambah-saldo.png) |
 
 ## Teknologi yang Digunakan
 
